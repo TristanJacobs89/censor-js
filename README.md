@@ -2,7 +2,9 @@
 Censor those rude swearwords in your application, because we're a civilised people.
 
 ## Install
-
+```bash
+$ npm install --save censor-js
+```
 
 
 ## How to use
