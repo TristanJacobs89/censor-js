@@ -1,0 +1,14 @@
+{
+  "name": "censor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tristan Jacobs",
+  "license": "MIT",
+  "description": "Censor those rude swearwords in your application, because we're a civilised people.",
+  "dependencies": {
+    "repeat-string": "^1.6.1"
+  }
+}
